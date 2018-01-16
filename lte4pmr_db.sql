@@ -36,7 +36,7 @@ CREATE TABLE `mmeidentity` (
   PRIMARY KEY (`idmmeidentity`)
 ) ENGINE=MyISAM AUTO_INCREMENT=46 DEFAULT CHARSET=latin1;
 
-INSERT INTO `mmeidentity` VALUES (1,'mme.lte4pmr.eur','lte4pmr.eur',0);
+INSERT INTO `mmeidentity` VALUES (1,'mme.lte4pmr.eu','lte4pmr.eu',0);
 
 --
 -- Table structure for table `pdn`
